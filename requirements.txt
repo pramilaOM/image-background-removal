@@ -1,5 +1,5 @@
 streamlit==1.12.0
-rembg==2.0.66  # Ensure compatibility
-onnxruntime==1.20.0  # This should work with Python 3.8, 3.9, and earlier versions
-Pillow==8.3.2
+rembg==2.0.66
+onnxruntime==1.20.0
+Pillow==8.4.0  # Try a different version to avoid build issues
 werkzeug==2.1.2
