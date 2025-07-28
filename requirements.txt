@@ -1,5 +1,5 @@
 streamlit==1.12.0
 rembg==2.0.66
 onnxruntime==1.20.0
-Pillow==8.4.0  # Try a different version to avoid build issues
+Pillow==8.4.0
 werkzeug==2.1.2
